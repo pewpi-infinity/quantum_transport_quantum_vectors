@@ -1,13 +1,15 @@
 # Repo Goal — quantum_transport_quantum_vectors
 
 ## Purpose
-Role inside Infinity / Octave ecosystem.
+Define the role of this repository inside Infinity / Octave.
 
 ## 30 Days
-Minimal working artifact.
+- Stabilize structure
+- Minimal working artifact
 
 ## 60 Days
-Automation + cross-repo links.
+- Expand depth or automation
+- Cross-link with related repos
 
 ## 90 Days
-Release-ready or synthesis.
+- Synthesis or release-ready state
